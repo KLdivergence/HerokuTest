@@ -4,7 +4,7 @@
       <v-card height="70px">
         <v-toolbar color="primary" height="70px">
           <img src="../assets/favicon.png" margin-left="-80px" width="70px" height="70px">
-          <v-toolbar-title style="margin-left: 40px;" class="display-1" >Preferences Auditing Service</v-toolbar-title>
+          <v-toolbar-title style="margin-left: 40px;" class="display-1" >Auditing Service</v-toolbar-title>
           <v-spacer></v-spacer>
           <v-toolbar-items class="hidden-sm-and-down" absolute shift>
             <v-btn icon>
